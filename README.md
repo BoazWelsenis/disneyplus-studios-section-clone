@@ -19,5 +19,5 @@ The `muted` needs to be used, because of in-build security from browsers to prev
 
 ___
 ### Result
-https://user-images.githubusercontent.com/70898181/210183041-32899a6e-a0ce-4153-8311-45105f884b23.mp4
+https://user-images.githubusercontent.com/70898181/210183256-07b418f1-cc0b-49d0-b93b-f8ce7d9befba.mp4
 P.S: If you want to see the full hover states of the Disney+ Studios Section, make sure to fork this project!
