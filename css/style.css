@@ -18,6 +18,7 @@ body{
     display: flex; 
     align-items: center;
     justify-content: space-evenly;
+    flex-flow: row wrap;
     gap: 2rem;
 }
 
@@ -67,4 +68,11 @@ body{
     right: 0;
     bottom: 0; 
     left: 0;
+}
+
+@media screen and (max-width: 640px) {
+    .studios{
+        height: auto;
+        margin: 3rem 0;
+    }
 }
