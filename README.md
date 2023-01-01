@@ -19,4 +19,4 @@ The `muted` needs to be used, because of in-build security from browsers to prev
 
 ___
 ### Result
-If you want to check the result, make sure to watch the following: [video](videos/Z%20-%20Result.mp4)
+https://user-images.githubusercontent.com/70898181/210183041-32899a6e-a0ce-4153-8311-45105f884b23.mp4
