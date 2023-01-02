@@ -7,7 +7,7 @@ In this project I've made a "clone" of the Studios Section from Disney+.
 <u>1. Overlapping an image on a video on hover:</u>
 When overlapping the used image (= the logo of a studio) with the video, i used: `position: relative/absolute` + `z-index` to be able to overlap the image in on the video. 
 
-The problem I faced was that I still couldn't see the image. But I fixed this by setting `display: block`; 
+The problem I faced was that I still couldn't see the image. But I fixed this by setting `display: block` 
 
 <br>
 
